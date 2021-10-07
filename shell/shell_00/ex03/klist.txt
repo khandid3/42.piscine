@@ -1,0 +1,6 @@
+Credentials cache: API:6F68C5F1-0CC4-470F-9305-14159FF83F53
+        Principal: rdomingu@42LAUSANNE.CH
+
+  Issued                Expires               Principal
+Jul  5 17:37:49 2021  Jul  6 03:37:38 2021  krbtgt/42LAUSANNE.CH@42LAUSANNE.CH
+Jul  5 17:37:49 2021  Jul  6 03:37:38 2021  HTTP/student-storage.42lausanne.ch@42LAUSANNE.CH
